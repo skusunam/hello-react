@@ -1,0 +1,19 @@
+{
+  "name": "hello-react",
+  "version": "0.0.0",
+  "authors": [
+    "Srini Kusunam <skusunam@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "react": "~0.12.2",
+    "jquery": "~2.1.3"
+  }
+}
